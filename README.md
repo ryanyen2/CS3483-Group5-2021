@@ -1,8 +1,8 @@
 <p align="center">
-    <a href="https://github.com/Alissonsleal/twitch-clone/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Alissonsleal/twitch-clone?color=sucess&style=flat-square"></a>
-    <a href="https://github.com/Alissonsleal/twitch-clone/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/Alissonsleal/twitch-clone?color=sucess&style=flat-square"></a>
-    <a href="https://github.com/Alissonsleal/twitch-clone/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Alissonsleal/twitch-clone?color=sucess&style=flat-square"></a>
-    <a href="https://github.com/Alissonsleal/twitch-clone/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/Alissonsleal/twitch-clone?color=sucess&style=flat-square"></a>
+    <a href="https://github.com/ryanyen2/CS3483-Group5-2021/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/ryanyen2/CS3483-Group5-2021?color=sucess&style=flat-square"></a>
+    <a href="https://github.com/ryanyen2/CS3483-Group5-2021/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/ryanyen2/CS3483-Group5-2021?color=sucess&style=flat-square"></a>
+    <a href="https://github.com/ryanyen2/CS3483-Group5-2021/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/ryanyen2/CS3483-Group5-2021?color=sucess&style=flat-square"></a>
+    <a href="https://github.com/ryanyen2/CS3483-Group5-2021/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/ryanyen2/CS3483-Group5-2021?color=sucess&style=flat-square"></a>
 </p>
 
 # HiLive
